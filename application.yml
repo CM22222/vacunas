@@ -1,0 +1,21 @@
+datosOrigen:
+  url: 'https://vacunas-pre.sns.gob.es/sssns/vacunas-bus/Murcia/ConsultarDatosOrigen'
+
+datosFinales:
+  url: 'https://vacunas-pre.sns.gob.es/sssns/vacunas-bus/Murcia/ConsultarDatosFinales'
+
+envio:
+  url: 'https://vacunas-pre.sns.gob.es/sssns/vacunas-bus/Murcia/CargarFichero'
+
+estado:
+  url: 'https://vacunas-pre.sns.gob.es/sssns/vacunas-bus/Murcia/ConsultarEstadoFichero'
+
+
+certificado:
+    rutacert: {rutacertificado}
+    clavecert: {clavecertificado}
+    aliascert: {aliascertificado}
+
+gestion:
+  usuario: usuariodepruebas
+  nfs_path: "/vacunas/ficheros"
